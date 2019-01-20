@@ -1,0 +1,50 @@
+
+#page{
+  max-width: inherit;
+  min-width: inherit;
+  margin: 10px auto 10px auto;
+  padding: 20px;
+  border: 4px double #000;
+  background-color:#ffffff;}
+
+h1{
+  font-size: 26px;
+  text-align: center;}
+h2{
+  font-size: 26px;
+  text-align: center;}
+h3{
+  font-size: 26px;
+  text-align: center;}
+
+body {
+  font-size:18px;
+  font-family: "Varela Round";
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.15em;
+  background-color:#ffffff;}
+
+p{
+  text-align: center;
+  font-family: "Varela Round";
+  width: 600px;
+  margin: 20px auto 20px auto;
+  font-weight: normal;}
+
+#navigation {
+  width: 570px;
+  padding: 15px;
+  font-family: "Varela Round";
+  margin: 0px auto 0px auto;
+  border-top:2px solid #000;
+  border-bottom:1px solid #000;
+  text-align: center ;}
+
+li {
+  display: inline;
+  margin: 0px 3px;}
+
+div{
+  font-size: 200%;
+  text-align: center;}
